@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a> from Amplify 3.0
+          Welcome to Hackathon <a href="https://nextjs.org">Next.js!</a> from Amplify 3.0
         </h1>
 
         <p className={styles.description}>
